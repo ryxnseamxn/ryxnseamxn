@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Q5OW9kOWw5dXk4NnlvN3dtMXBkd3BvbDNzY3VzOXFhM3Bwa3A0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gDI6uVVVYEWVG/giphy.gif" width="100vw" >
+
 ![Uh oh, derp!](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Q5OW9kOWw5dXk4NnlvN3dtMXBkd3BvbDNzY3VzOXFhM3Bwa3A0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gDI6uVVVYEWVG/giphy.gif)
 
 <!--
